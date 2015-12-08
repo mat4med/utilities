@@ -50,4 +50,4 @@ tail -n+$(grep -n "~A" file_name.ext |cut -f1 -d:) file_name.ext
  1453.0000    11.3552   139.4229    88.3471
  1454.0000    18.4241   139.3315    88.3528
 ```
-[5] improvement: add loop to go over than one file
+[5] improvement: add loop to go over more than one file
